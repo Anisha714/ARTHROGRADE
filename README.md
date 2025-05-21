@@ -7,19 +7,17 @@ To build a reliable ML model that classifies the **severity of arthritis** (e.g.
 
 ## 🧠 Technologies Used
 - Python 🐍
-- Scikit-learn / TensorFlow / Keras (based on your code)
+- Scikit-learn / TensorFlow / Keras 
 - NumPy & Pandas
 - Matplotlib / Seaborn (for visualizations)
-- OpenCV (if image processing is used)
+- OpenCV (for image processing)
 
 ## 🗂️ Project Structure
 ARTHROGRADE/
 │
 ├── arthritis_detector.py # Main script for detection logic
-├── dataset/ # (Optional) Input data/images
-├── model/ # Saved trained models
+├── dataset/ #  Input data/images
 ├── README.md # Project overview
-└── requirements.txt # Python dependencies
 
 🏥 Use Cases
 Early diagnosis of arthritis severity
