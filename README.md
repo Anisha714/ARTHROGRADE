@@ -16,7 +16,9 @@ To build a reliable ML model that classifies the **severity of arthritis** (e.g.
 ARTHROGRADE/
 │
 ├── arthritis_detector.py # Main script for detection logic
+
 ├── dataset/ #  Input data/images
+
 ├── README.md # Project overview
 
 🏥 Use Cases
