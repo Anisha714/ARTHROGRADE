@@ -1,6 +1,9 @@
 # 🦴 ARTHROGRADE - Arthritis Grade Detection using Machine Learning
-Dataset
-The dataset used in this notebook is assumed to be pre-split into the 5 categories (Normal, Doubtful, Mild, Moderate, Severe).
+ 📊 Dataset
+
+The dataset used for this project can be downloaded from the following link:
+📥 [https://www.kaggle.com/datasets/hafiznouman786/annotated-dataset-for-knee-arthritis-detection]
+ 
 This repository explores various machine learning and deep learning techniques for the detection and classification of minor knee arthritis. It is designed for educational and research purposes, offering implementations using Convolutional Neural Networks (CNN), Explainable AI (XAI) techniques, and traditional machine learning models.
 
 Overview Knee arthritis is a common condition affecting many individuals, and early detection can lead to better management and treatment. This project demonstrates several approaches for diagnosing knee arthritis using imaging data:
